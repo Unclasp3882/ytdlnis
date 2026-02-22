@@ -118,6 +118,17 @@ Müzakirə, elanlar və buraxılışlar üçün [Telegram Kanalımıza](https://
 
 Tətbiqin paket adı "com.deniscerri.ytdl"-dir.
 
+## 🔍 Tətbiq imzasın təsdiqləmə
+
+Tətbiq aşağıdakı imzanı ehtiva etməlidir. Github iş axını fəaliyyəti bunu istifadə edir və buraxılışlar onu yenilənən quruluş halına gətirmək üçün buna əsaslanır.
+İmza fərqlidirsə, üçüncü tərəf paylayıcınız tətbiqi dəyişdirib. Xahiş olunur, tətbiqi əsil imza ilə istifadə edin.
+```
+Signer #1 certificate DN: CN=Denis Cerri, OU=Personal, O=Personal, L=Albania, ST=Albania, C=AL
+Signer #1 certificate SHA-256 digest: 263645cb5272eb290759fe1f59149ae24df6ce171e9f6666eead981d3fc64c95
+Signer #1 certificate SHA-1 digest: 2fec9c2fcef68d29a60857e185c795fec5f56fb6
+Signer #1 certificate MD5 digest: 429d0c6315d2f99650f66cc44cf5a794
+```
+
 
 ## 🤖 İntent-lər istifadə edərək üçüncü tərəf tətbiqləri ilə əlaqə qurun
 
