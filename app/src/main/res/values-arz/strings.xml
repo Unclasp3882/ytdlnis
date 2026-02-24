@@ -136,4 +136,23 @@
     <string name="embed_thumb">أغلفة الصور المصغرة</string>
     <string name="embed_thumb_summary">استخدم الصورة المصغرة كغلاف فني</string>
     <string name="add_chapters">الفصول في الفيديوهات</string>
+    <string name="add_chapters_summary">قم بوضع علامة على مقاطع YouTube / SponsorBlock كفصول للفيديو</string>
+    <string name="save_thumb">حفظ الصورة المصغرة</string>
+    <string name="save_thumb_summary">احفظ الصورة المصغرة في مجلد التنزيل</string>
+    <string name="video_format">تنسيق الفيديو</string>
+    <string name="run_command">تشغيل الأمر</string>
+    <string name="command_download_notification_channel_name">تنزيلات الأوامر</string>
+    <string name="command_download_notification_channel_description">إشعار يوضح تقدم عملية التنزيل باستخدام أمر yt-dlp</string>
+    <string name="items_left">العنصر (العناصر) المتبقية</string>
+    <string name="history_is_empty">التاريخ فارغ</string>
+    <string name="you_are_going_to_delete">حذف</string>
+    <string name="url">الرابط</string>
+    <string name="link_copied_to_clipboard">تم نسخ الرابط إلى الحافظة</string>
+    <string name="api_key">استخدم مفتاح API</string>
+    <string name="api_key_summary">توصيات الفيديو من YouTube API</string>
+    <string name="downloads">التحميلات</string>
+    <string name="remove_deleted">إزالة المحذوف</string>
+    <string name="remove_duplicates">إزالة التكرارات</string>
+    <string name="sort_by">ترتيب</string>
+    <string name="incognito_summary">تنزيل دون إضافة إلى التاريخ</string>
 </resources>
